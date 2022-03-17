@@ -1,0 +1,11 @@
+15 | Nguyen Van A | 1.2
+11 | Nguyen Van B | 5.6
+13 | Tran Van C | 2.3
+18 | Phan Thi D | 4.5
+19 | Chu E | 3.4
+
+11 | Nguyen Van B | 5.6
+15 | Nguyen Van A | 1.2
+13 | Tran Van C | 2.3
+18 | Phan Thi D | 4.5
+19 | Chu E | 3.4
